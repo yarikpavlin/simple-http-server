@@ -1,0 +1,23 @@
+{
+  "name": "simple-http-server",
+  "version": "1.0.0",
+  "description": "Simple HTTP server on node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarikpavlin/simple-http-server.git"
+  },
+  "keywords": [
+    "HTTP",
+    "nodejs"
+  ],
+  "author": "Yaroslav Pavlynskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarikpavlin/simple-http-server/issues"
+  },
+  "homepage": "https://github.com/yarikpavlin/simple-http-server#readme"
+}
